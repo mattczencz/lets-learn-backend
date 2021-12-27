@@ -1,24 +1,12 @@
-# README
+# Let's Learn API Backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the Let's Learn backend API. The database has a schema as follows:
 
-Things you may want to cover:
+* title: String
+* description: String
+* url: String
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Technologies used:
+* Ruby
+* Rails
+* Scaffold
