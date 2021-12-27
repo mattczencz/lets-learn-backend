@@ -10,3 +10,6 @@ This is the Let's Learn backend API. The database has a schema as follows:
 * Ruby
 * Rails
 * Scaffold
+
+## Deployed URL:
+[View the Live Link](https://czencz-lets-learn.herokuapp.com/lessons)
