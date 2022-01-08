@@ -5,6 +5,7 @@ This is the Let's Learn backend API. The database has a schema as follows:
 * title: String
 * description: String
 * url: String
+* category: String
 
 ## Technologies used:
 * Ruby
